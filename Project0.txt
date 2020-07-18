@@ -1,0 +1,10 @@
+import java.util.Scanner;
+import java.util.ArrayList;
+
+public class WebCrawler{
+
+}
+
+public static void crawler(String starting URL){
+	
+}
